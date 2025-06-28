@@ -1,0 +1,14 @@
+body{
+  display: flex;
+  background-color: black;
+  background-image: url("img/pexels-kuku-campers-593102524-17214262.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  margin: 0;
+  z-index: -100;
+  justify-content: center;
+  align-items: center;
+   font-family: Quicksand;
+}
